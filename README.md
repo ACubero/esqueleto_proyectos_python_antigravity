@@ -1,4 +1,4 @@
-# 🚀 Esqueleto de Proyectos Python — Antigravity Edition
+# 🚀 Esqueleto de Proyectos Python — Antigravity Edition 
 
 Plantilla base para iniciar proyectos Python con un **agente AI preconfigurado**, equipado con 19 skills especializadas, roles de orquestación y protocolos operativos.
 
